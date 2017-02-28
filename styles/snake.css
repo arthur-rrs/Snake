@@ -1,0 +1,34 @@
+html, body 
+{
+  margin : 0; 
+  background-color : #010201; 
+  color : #306d30; 
+  font-family: 'Baloo', cursive;
+}
+
+h1 
+{
+  font-size : 30px; 
+}
+
+#scenario-of-game 
+{
+  border : 10px solid #306d30;
+}
+
+.game-container
+{
+  margin : 0 400px;
+}
+a {
+  text-decoration: none;
+}
+a:link, a:visited {
+   color : #306d30;
+}
+
+a:active, a:hover 
+{
+  color : yellow;
+  text-decoration: underline;
+}
