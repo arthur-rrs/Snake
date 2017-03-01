@@ -15,10 +15,17 @@ h1
 {
   border : 10px solid #306d30;
 }
-
+.center 
+{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 .game-container
 {
-  margin : 0 400px;
+  width: 400px;
 }
 a {
   text-decoration: none;
